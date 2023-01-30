@@ -123,3 +123,6 @@ console.log(speed.isCheckedOut)
 speed.addRating(1,1,5);
 
 console.log(speed.getAverageRating())
+
+
+
