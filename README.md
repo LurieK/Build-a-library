@@ -26,4 +26,11 @@ The `School` project focuses on building a class hierarchy for different types o
 3. Learn about the getter methods, the `quickFacts` function, and the `pickSubstituteTeacher` static method.
 4. Create instances of the school classes and experiment with the getter and setter methods.
 
-Feel free to further customize the README file based on your specific needs and add any additional information or details that you'd like to include.
+Contributing
+============
+Contributions to this project are currently not accepted. However, feel free to fork the repository and customize it for your own projects.
+
+Author
+======
+Created by Lurie Kimmerle - [GitHub Profile](https://github.com/luriek)
+
